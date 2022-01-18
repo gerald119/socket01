@@ -1,0 +1,2 @@
+module chatting01 {
+}
